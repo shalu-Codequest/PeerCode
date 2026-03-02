@@ -2,11 +2,6 @@
 
 **PeerCode** is a full-stack developer & coder community platform. It aims to provide an interactive space for students to collaborate, ask questions, share knowledge, and track their competitive programming progress across platforms like **LeetCode**, **Codeforces**, and **GitHub** — all in one place.
 
-## 🌐 Live Preview
-
-👉 [Visit PeerCode on Vercel](https://peercode-two.vercel.app/)
-
----
 
 ## 🎯 Key Features
 
